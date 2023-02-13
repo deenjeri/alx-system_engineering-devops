@@ -1,0 +1,35 @@
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../0-iam_betty
+	deleted:    ../0x00-shell_basics/0-current_working_directory
+	deleted:    ../0x00-shell_basics/1-listit
+	deleted:    ../0x00-shell_basics/10-back
+	deleted:    ../0x00-shell_basics/100-lets_move
+	deleted:    ../0x00-shell_basics/101-clean_emacs
+	deleted:    ../0x00-shell_basics/102-tree
+	deleted:    ../0x00-shell_basics/103-commas
+	deleted:    ../0x00-shell_basics/11-lists
+	deleted:    ../0x00-shell_basics/12-file_type
+	deleted:    ../0x00-shell_basics/13-symbolic_link
+	deleted:    ../0x00-shell_basics/14-copy_html
+	deleted:    ../0x00-shell_basics/2-bring_me_home
+	deleted:    ../0x00-shell_basics/3-listfiles
+	deleted:    ../0x00-shell_basics/4-listmorefiles
+	deleted:    ../0x00-shell_basics/5-listfilesdigitonly
+	deleted:    ../0x00-shell_basics/6-firstdirectory
+	deleted:    ../0x00-shell_basics/7-movethatfile
+	deleted:    ../0x00-shell_basics/8-firstdelete
+	deleted:    ../0x00-shell_basics/9-firstdirdeletion
+	deleted:    ../0x00-shell_basics/README.md
+	deleted:    ../0x00-shell_basics/school.mgc
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	^C
+
+no changes added to commit (use "git add" and/or "git commit -a")
